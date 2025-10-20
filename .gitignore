@@ -426,3 +426,9 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+*.swp
+API/appsettings.json
+API/Reactivities.db
+API/Reactivities.db-shm
+.gitignore
